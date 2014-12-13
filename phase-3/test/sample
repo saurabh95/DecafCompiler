@@ -1,0 +1,11 @@
+class Program
+{
+    boolean i, j;
+    boolean arr[100];
+
+    int main()
+    {
+        int i,j;
+         i = i + j;
+    }
+}

@@ -1,0 +1,35 @@
+class Program
+{
+    boolean i, j;
+    boolean arr[100];
+
+    int main()
+    {
+        int i,j;
+        int l,h;
+        i = 1;
+        j = 1;
+        i = j;
+        if(i==123)
+
+        {
+            i=1;
+        }
+        else
+        {
+            i = 2;
+        }
+         for l = 0, l <= 2
+
+         {
+             j = 2+3;
+         }
+        return 0;
+    }
+
+    int fun(int argc)
+    {
+        int a;
+        a = main();
+    }
+}

@@ -1,0 +1,8 @@
+class Addition
+{
+    int n;
+    int Add(int i, int j)
+    {
+        return (i+j);
+    }
+}

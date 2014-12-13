@@ -1,0 +1,22 @@
+class Minimum
+{
+    int min;
+    int a[100];
+    int n;
+    int Min(int i, int j)
+    {
+        if(i>j)
+        {
+            return j;
+        }
+        else
+        {
+            return i;
+        }
+    }
+    int main()
+    {
+        int k;
+        k = Min(2,3);
+    }
+}

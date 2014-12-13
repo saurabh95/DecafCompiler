@@ -1,0 +1,22 @@
+class Maximum
+{
+    int max;
+    int a[100];
+    int n;
+    int Max(int i, int j)
+    {
+        if(i>j)
+        {
+            return i;
+        }
+        else
+        {
+            return j;
+        }
+    }
+    int main()
+    {
+        int k;
+        k = Max(2,3);
+    }
+}

@@ -1,0 +1,3 @@
+bison -d parser.yy
+flex scanner.l
+g++ -g lex.yy.c parser.tab.cc `llvm-config --libs core jit native --cxxflags` `llvm-config --ldflags` -lfl -o parser

@@ -1,0 +1,39 @@
+class Program
+{
+    boolean i, j;
+    boolean arr[100];
+    
+    // This function
+    boolean main(boolean argc, boolean abcd)
+    {
+        boolean a, b;
+        boolean d;
+        b = 1;
+        c = a[i];
+
+        
+
+//        for a = 10, a < 100
+  //      {
+            if (a > 20)
+            {
+                return 0;
+            }
+            else
+            {
+                continue;
+                a += b;
+            }
+    //    }
+    }
+    
+    boolean too(boolean c)
+    {
+        callout("foo", "dadasa", "b", a+b);
+    }
+
+    void fun()
+    {
+        foo(a, b);
+    }
+}
